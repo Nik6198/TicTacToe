@@ -1,0 +1,38 @@
+input
+
+o
+x - -
+- - o
+o x -
+
+output
+
+x - -
+- o o
+o x -
+
+input 
+
+o
+x - o
+- - -
+x - o
+
+output
+
+x - o
+- - o
+x - o
+
+input
+
+o
+x - o
+- - -
+x - -
+
+output
+
+x - o
+o - -
+x - -
